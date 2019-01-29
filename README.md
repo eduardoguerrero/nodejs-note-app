@@ -1,4 +1,4 @@
-# Note App
+# Node.js - Note App
 
 ### Add note
 `node app.js add --help`
